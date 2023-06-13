@@ -6,7 +6,5 @@ int main(){
 	double gst = cn*gkt*t/100 + cn*gkt;
 	printf("%lf", gst);
 	// gst = cn*gkt*t/100 + cn*gkt
-	
-	
 	return 0;
 }
