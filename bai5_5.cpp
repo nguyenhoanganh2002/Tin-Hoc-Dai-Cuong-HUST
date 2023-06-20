@@ -3,9 +3,8 @@
 
 int main(){
 	char s[100], t[100];
-	gets(s);
-	fflush(stdin);
-	gets(t);
-	printf("%s", s);
+//	scanf("%s%s", s, t);
+	
+	printf("%d", (int)('A'));
 	return 0;
 }
